@@ -196,7 +196,7 @@ if (line) ctx.fillText(line, nameCenterX, currentY);
           <a
             href={imageUrl}
             download={`invitation-${name}.png`}
-            className="inline-block mt-4 bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700"
+            className="inline-block mt-4 bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700 hover:text-white"
           >
             ડાઉનલોડ કરો
           </a>
