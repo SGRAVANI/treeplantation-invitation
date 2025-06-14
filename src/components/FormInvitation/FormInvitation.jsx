@@ -97,7 +97,7 @@ if (line) ctx.fillText(line, nameCenterX, currentY);
 
   const imageURL = canvas.toDataURL('image/png');
   setImageUrl(imageURL);
-  alert('તમારું ફોર્મ સફળતાપૂર્વક મોકલાયું!');
+  alert('તમારું ફોર્મ સફળતાપૂર્વક મોકલાયું! \nડાઉનલોડ કરવા માટે નીચે સ્ક્રોલ કરો');
 }
 };
 
